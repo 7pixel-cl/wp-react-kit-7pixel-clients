@@ -28,7 +28,7 @@ A simple starter kit to work in WordPress plugin development using WordPress Res
 ### Quick Start
 ```sh
 # Clone the Git repository
-git clone https://github.com/ManiruzzamanAkash/wp-react-kit.git
+git clone [https://github.com/ManiruzzamanAkash/wp-react-kit.git](https://github.com/7pixel-cl/wp-react-kit-7pixel-clients.git)
 
 # Install PHP-composer dependencies [It's empty]
 composer install
@@ -125,13 +125,6 @@ composer run phpcbf
 composer run test:all
 ```
 
-### Browse Plugin
-
-http://localhost/wpex/wp-admin/admin.php?page=jobplace#/
-
-Where, `/wpex` is the project root folder inside `/htdocs`.
-
-Or, it could be your custom processed URL.
 
 ### REST API's
 
@@ -370,5 +363,7 @@ https://i.ibb.co/QYgvD83/Mobile-View-Selected-Job.png
 Contribution is open and kindly accepted. Before contributing, please check the issues tab if anything in enhancement or bug. If you want to contribute new, please create an issue first with your enhancement or feature idea.
 Then, fork this repository and make your Pull-Request. I'll approve, if everything goes well.
 
-## Contact
-It's me, Maniruzzaman Akash. Find me at manirujjamanakash@gmail.com
+## Thanks
+Based on the work of, Maniruzzaman Akash https://github.com/ManiruzzamanAkash/wp-react-kit
+
+
